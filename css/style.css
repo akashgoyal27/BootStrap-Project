@@ -1,0 +1,99 @@
+body{
+	background-image: url('http://www.no-zaku.com/background/wp-content/uploads/sites/9/2016/11/Cool-Webpage-Background-Images.jpg');
+	background-size:cover;
+}
+.top{
+	background:dimgray;
+}
+.jumbotron{
+	background-image: url('../img/img3.jpg');
+	background-size: 100% 100%;
+	background-repeat:no-repeat;
+	height:400px;
+}
+.navbar-color{
+	margin-top:100px;
+	background-color: black;
+}
+.iteminnav{
+	color:white;
+}
+.jumbotron h2{
+	margin-top: 100px;
+	padding:0px 0px 10px 0px;
+}
+.jumbotron .cta{
+	background:transparent;
+	color:white;
+	border-radius:4px;
+	margin-left:7px;
+	border:1px solid white;
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+	padding:8px 25px;
+}
+.cta:hover{
+	background-color: white;
+	color:black;
+	text-decoration: none;
+
+}
+.cta:hover{
+	background-color: white;
+	color:black;
+	text-decoration: none;
+}
+.news1{
+	height:180px;
+}
+.news2{
+	width:200px;
+	height:150px;
+}
+.list-items li{
+	background-color: black;
+}
+.list-items li:hover{
+	background-color: white;
+	text-decoration: none;
+
+}
+.footer{
+	background-color: dimgray;
+}
+
+.footer3 .head1{
+	color:black;
+}
+.footer3 .para{
+	color:white;
+}
+.footer2{
+	color:white;
+}
+.footercolor{
+	background:black;
+}
+.carousel-item img{
+	width:100%;
+	height:400px;
+}
+.col1{
+	width:120px;
+}
+.para{
+	width:250px;
+	color:black;
+}
+.para1{
+	color:white;
+}
+.hr1{
+	color:black;
+	width:300px;
+}
+.iconpad{
+	padding-left:5px;
+	padding-right: 5px;
+}
